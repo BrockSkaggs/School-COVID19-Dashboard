@@ -1,0 +1,14 @@
+.radio-label{
+    /* position: relative;
+    bottom:3px; */
+    font-weight: bold;
+    margin-right: 6px;
+}
+
+.card-body-centered{
+    text-align: center;
+}
+
+.jumbotron-cj{
+    display: flex;
+}
